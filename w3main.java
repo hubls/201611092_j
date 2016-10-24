@@ -1,4 +1,3 @@
-﻿System.out.println("Homework"); 
 class Hello { 
     String toWhom="LSJ"; 
     Hello() {} 
