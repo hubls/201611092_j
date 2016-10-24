@@ -1,6 +1,6 @@
 ﻿System.out.println("Homework"); 
 class Hello { 
-    String toWhom="khb"; 
+    String toWhom="LSJ"; 
     Hello() {} 
     void sayHello() { 
         System.out.println("hello "+toWhom); 
