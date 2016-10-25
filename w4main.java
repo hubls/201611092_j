@@ -1,4 +1,3 @@
-﻿System.out.println("Homework"); 
 public class Rectangle { 
     private int width; 
     private int height; 
