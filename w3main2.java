@@ -1,5 +1,4 @@
-﻿print ('home work') 
-class Person { 
+ class Person { 
     private float weight; 
     public void setWeight(float w) { 
         this.weight=w; 
@@ -9,5 +8,5 @@ class Person {
     } 
 } 
 Person h=new Person(); 
-h.setWeight((float)75.0); 
+h.setWeight((float)63.0); 
 System.out.println(h.getWeight()); 
