@@ -1,5 +1,5 @@
 ﻿package com.sd.ch8; 
-import com.sd.ch8; 
+import com.sd.ch8.*; 
 public class Circle extends Shape { 
     private final double radius, area, perimeter; 
 
